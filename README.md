@@ -1,4 +1,4 @@
-# projet_python
+# Projet Python
 # Les promos du jour sur le site de Rakuten
 
 Ce projet contient des données scrappées du site officiel de shopping en ligne Rakuten, contenant une liste des promos du jour avec les différents prix. Il contient:
